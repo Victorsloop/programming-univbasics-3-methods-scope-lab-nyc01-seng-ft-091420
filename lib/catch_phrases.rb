@@ -12,5 +12,5 @@ def link
   puts concern 
 end 
 def all_phrases 
-  puts phrase + status + concern 
+  mario + toadstool + link 
 end 
